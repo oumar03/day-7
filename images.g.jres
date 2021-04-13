@@ -1,0 +1,12 @@
+{
+    "$Fk,|@d:Cqt`I`60TU?-": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiICAAAAIAAAACAAAAACAAAAAAIAIAD/DwAPIAAgAA8PAA8gACAA/w8A8CAAIAAAAA/wIAAgAP8PAPAgACAADw8ADyAAIAD/DwAPIAAAAgAAAAACAAAgAAAAIAAAAAAiIiICAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Smiley Face"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
